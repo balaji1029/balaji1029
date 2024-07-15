@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Game Theory and Reinforcement Learning
+- 🔭 I’m currently working on Cryptography and Reinforcement Learning
 - 🌱 I’m currently learning the same
 - 👯 I’m looking to collaborate on Web projects (Currently I need to build up skills... 😅)
 - 🤔 I’m looking for help with not much really, I like finding solutions myself
