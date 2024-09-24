@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my course work and sadly more Web Development
 - 🌱 I’m currently learning the same
 - 👯 I’m looking to collaborate on something interesting
-- 🤔 I’m looking for help with my life
+- 🤔 I’m not looking for help
 - 💬 Ask me about anything, (I never promised that I would answer...)
 - 📫 How to reach me: Well....
 - 😄 Pronouns: he/him
