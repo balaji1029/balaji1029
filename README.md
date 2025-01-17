@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my course work and sadly more Web Development
-- 🌱 I’m currently learning the same
-- 👯 I’m looking to collaborate on something interesting
-- 🤔 I’m not looking for help
-- 💬 Ask me about anything, (I never promised that I would answer...)
-- 📫 How to reach me: Well....
+- 🔭 I’m currently working on Garbage Collectors in Programming Languages and Security in Computer Architecture
+- 🌱 I’m currently learning Operating Systems, Artificial Intelligence and Analysis of Algorithms
+- 👯 I’m looking to collaborate on something fun
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that there are more number of Hydrogen atoms in a water molecule than the stars in our Solar System?? 🌟
 <div style="display: flex;">
