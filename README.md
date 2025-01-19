@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Garbage Collectors in Programming Languages and Security in Computer Architecture
+- 🔭 I’m currently working on Ownership Model in Rust and Security in Computer Architecture
 - 🌱 I’m currently learning about Operating Systems, Artificial Intelligence and Analysis of Algorithms
 - 👯 I’m looking to collaborate on something cool
 - ⚡ Fun fact: Did you know that there are more number of Hydrogen atoms in a water molecule than the stars in our Solar System?? 🌟
