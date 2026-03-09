@@ -10,3 +10,8 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji1029&layout=compact&langs_count=8&text_color=ffffff&bg_color=242424&exclude_repo=cs108-res&hide=jupyter%20notebook,assembly,asp.net" alt="Something wrong with the server :(" />
 </div>
 -->
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=balaji1029&theme=summer">
+</picture>
